@@ -1,4 +1,4 @@
-# lab6GH
+# lab4GH
 This lab focused on cleaning and preparing data before building machine learning models using the USA Housing Dataset.
 
 Task 1: Data Quality Assessment
